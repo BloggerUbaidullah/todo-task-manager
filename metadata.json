@@ -1,0 +1,5 @@
+{
+  "name": "Minimal Todo",
+  "description": "A modern, clean todo application with priority tags, dark mode, and local storage.",
+  "requestFramePermissions": []
+}
